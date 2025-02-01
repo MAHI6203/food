@@ -2,7 +2,7 @@
 This is a food ordering app 
 
 To launch this website,
-download the mysite folder from the provided link.
+download the mysite zip file from the provided link and unzip after downloading it.
 Now, open your terminal and navigate to the Downloads directory by typing cd Downloads.
 Next, execute the following command: python3 manage.py runserver.
 This command will display the URL where the website is hosted, similar to the following:
